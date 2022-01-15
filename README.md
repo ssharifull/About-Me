@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Shariful { @ssharifull }
+- 👀 I’m interested in Computers and AI Technology ...
+- 🌱 I’m currently learning IT ...
+- 📫 How to reach me ->> Only if u know. If u know me then u know my number, contact me there ...
+
+<!---
+ssharifull/ssharifull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
